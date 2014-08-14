@@ -1,4 +1,4 @@
-## name of project
+## The Derby
 ### Code Badges
 build status icon
 [![Build Status](https://travis-ci.org/SarahMPearson/theDerby.svg)](https://travis-ci.org/SarahMPearson/theDerby)
@@ -6,7 +6,7 @@ coverage status icon
 [![Coverage Status](https://coveralls.io/repos/SarahMPearson/theDerby/badge.png)](https://coveralls.io/r/SarahMPearson/theDerby)
 
 ### About
-write a description about your project
+A gambling apo
 
 ### Models
 ```
