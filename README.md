@@ -6,7 +6,7 @@ coverage status icon
 [![Coverage Status](https://coveralls.io/repos/SarahMPearson/theDerby/badge.png)](https://coveralls.io/r/SarahMPearson/theDerby)
 
 ### About
-A gambling apo
+A gambling app
 
 ### Models
 ```
