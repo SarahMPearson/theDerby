@@ -1,0 +1,58 @@
+{
+  "_id":{"$oid":"000000000000000000000001"},
+  "name":"Bob",
+  "spouse":{"name":"Janet", "photo":"https://cdn3.iconfinder.com/data/icons/people-professions/512/happy_D-512.png"},
+  "photo":"http://acertaincinema.com/wp-content/uploads/2012/08/tamiroff-king-gamblers.jpg",
+  "cash":1000.00,
+  "assets":[
+            {"name":"ring", 
+              "photo":"http://www.yankodesign.com/images/design_news/2006/03/20/killer_ring.jpg", 
+              "value": 5000},
+            {"name": "diamond", 
+              "photo": "http://lovelyweddingandeventrentals.com/wp-content/uploads/2014/02/diamond-giant-shutterstock_119434471.jpg", 
+              "value": 6000},
+            { "name": "car", 
+              "photo": "http://static.usnews.rankingsandreviews.com/images/Auto/izmo/365513/2014_honda_civic_sedan_angularfront.jpg", 
+              "value": 5000}
+            ],
+  "results":{"wins":5, "loses": 3}
+}
+
+{
+  "_id":{"$oid":"000000000000000000000002"},
+  "name":"Kenny",
+  "spouse":{"name":"Karen", "photo":"http://3.bp.blogspot.com/-RHBkyVc9e70/UUrXEL8xEpI/AAAAAAAAIdo/7wkQGk4Ys7c/s400/Julia+Roberts+Cute+Wallpapers+%25285%2529.jpg"},
+  "photo":"http://i57.photobucket.com/albums/g236/nickaanderud/Gambler_Lean.png",
+  "cash":3000.00,
+  "assets":[
+             {"name":"ring", 
+              "photo":"http://cosmeticsideas.com/wp-content/uploads/2014/06/Engagement-Ring-9.jpg", 
+              "value":5000},
+           {"name":"diamond", 
+              "photo":"http://lovelyweddingandeventrentals.com/wp-content/uploads/2014/02/diamond-giant-shutterstock_119434471.jpg ", 
+              "value":6000},
+            {"name":"car", 
+              "photo":"http://naibuzz.com/wp-content/uploads/2014/07/range-rover-7.jpg", 
+              "value":9000}],
+  "results":{"wins":8, "loses":2}
+}
+
+{
+  "_id":{"$oid":"000000000000000000000003"},
+  "name":"Wanda",
+  "spouse":{"name":"Cliff", "photo":"http://images.fineartamerica.com/images-medium-large/montgomery-clift-ca-1953-everett.jpg"},
+  "photo":"http://www.gannett-cdn.com/-mm-/ac1394dbdcca6a36cbf486633b129cd813095ac3/r=x404&c=534x401/local/-/media/USATODAY/GenericImages/2013/06/25/1372202335000-Sykes-Wanda-1306251920_4_3.jpg",
+  "cash":5000.00,
+  "assets":[
+            {"name":"ring", 
+              "photo":"http://www.designsnext.com/wp-content/uploads/2014/01/Promise-Rings-5.jpg", 
+              "value":5000},
+            {"name": "diamond", 
+              "photo":"http://lovelyweddingandeventrentals.com/wp-content/uploads/2014/02/diamond-giant-shutterstock_119434471.jpg ", 
+              "value":6000},
+            {"name":"car", 
+              "photo":"http://i.telegraph.co.uk/multimedia/archive/02580/Porsche-911-50-1_j_2580646b.jpg", 
+              "value":15000}],
+  "results":{"wins":7, "loses":1}
+}
+
